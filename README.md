@@ -14,7 +14,7 @@ This project implements a lightweight, portable map rendering engine using C++ a
 - **Platform**: Cross-platform (tested on Windows)
 
 ## Screenshots & Demo
-> 📷 (You can upload and embed images of the rendered scenes here)
+![Map Rendering Demo](./render_demo.png)
 
 ## Usage
 To build and run:
